@@ -1,4 +1,4 @@
-export declare class StringUtil {
+export class StringUtil {
   static readonly EMPTY = '';
   static readonly HYPHEN = '-';
   static readonly ASTERISK = '*';
